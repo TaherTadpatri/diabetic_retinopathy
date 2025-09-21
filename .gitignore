@@ -1,0 +1,8 @@
+frontend/frontend/node_modules
+medgemma_mm_retianl_finetune/.venv
+medgemma_mm_retianl_finetune/__pycache__
+medgemma_mm_retianl_finetune/model/
+medgemma_mm_retianl_finetune/src/__pycache__
+
+test_images.zip 
+/__pycache__/
